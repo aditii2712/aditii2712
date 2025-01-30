@@ -1,4 +1,4 @@
-<h2> Hi, I' am Aditi Singh!  <img src="https://media.giphy.com/media/WUm2STzv0N5fl3ezyr/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Aditi Singh!  <img src="https://media.giphy.com/media/WUm2STzv0N5fl3ezyr/giphy.gif" width="50"></h2>
 <img align='right' src="output-onlinegiftools.gif" width="240">
 <p><em>Project Student at Polaris School of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring : Operating Systems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -14,7 +14,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const Akhilesh = {
+const Aditi = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, Golang, Java, Python, HTML, CSS, Python, Java],
   tools: [React, Express , Node, Styled-Components, Docker],
@@ -39,16 +39,10 @@ const Akhilesh = {
 
 <p align="center">
   <a href="https://github.com/aditii2712">
-    <img title="GitHub Stats" alt="Aditi's streak" src="https://streak-stats.demolab.com/?user=aditii2712&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+    <img alt="Aditi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aditii2712&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="150px"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Akhilesh-max">
-    <img alt="Akhilesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akhilesh-max&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="150px"/>
-  </a>
-  <a href="https://github.com/Akhilesh-max">
-    <img alt="Akhilesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh-max&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="150px"/>
+  <a href="https://github.com/aditii2712">
+    <img alt="Aditi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditii2712&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="150px"/>
   </a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -56,7 +50,7 @@ const Akhilesh = {
 
 
 
-[![Akhilesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhilesh-max&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Akhilesh-max/github-readme-activity-graph)
+[![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aditii2712&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/aditii2712/github-readme-activity-graph)
 <h3 align="center">Visitor's count</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{Akhilesh-max}/count.svg/" alt="Akhilesh-max Visitor's count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{aditii2712}/count.svg/" alt="aditii2712 Visitor's count" /></p>
 
