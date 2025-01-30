@@ -3,20 +3,17 @@
 <p><em> Student at IIMT University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring : Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: Akhilesh](https://img.shields.io/twitter/follow/AKY241005?style=social)](https://twitter.com/aky241005) &nbsp;&nbsp;
-[![Linkedin: Akhilesh](https://img.shields.io/badge/-AkhileshKr.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/akhilesh-kr-yadav) &nbsp;&nbsp;
+[![Linkedin: Aditi](https://img.shields.io/badge/-AditiS.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/aditi-singh2712) &nbsp;&nbsp;
 <a href="https://leetcode.com/Akhilesh-max/">
     <img src="https://img.shields.io/badge/-LeetCode-black?style=social&logo=Leetcode" alt="Leetcode badge">
 </a> &nbsp;&nbsp;
-<a href="https://medium.com/@akacademic05">
-    <img src="https://img.shields.io/badge/-Blogs-black?style=social&logo=medium" alt="Blogs">
-</a> &nbsp;&nbsp;
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Aditi = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, Golang, Java, Python, HTML, CSS, Python, Java],
+  pronouns: "she" | "her",
+  code: [Javascript, Python, HTML, CSS, Python, Java, C ],
   tools: [React, Express , Node, Styled-Components, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
