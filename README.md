@@ -4,9 +4,6 @@
 </em></p>
 
 [![Linkedin: Aditi](https://img.shields.io/badge/-AditiS.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/aditi-singh2712) &nbsp;&nbsp;
-<a href="https://leetcode.com/Akhilesh-max/">
-    <img src="https://img.shields.io/badge/-LeetCode-black?style=social&logo=Leetcode" alt="Leetcode badge">
-</a> &nbsp;&nbsp;
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -14,14 +11,10 @@
 const Aditi = {
   pronouns: "she" | "her",
   code: [Javascript, Python, HTML, CSS, Python, Java, C ],
-  tools: [React, Express , Node, Styled-Components, Docker],
+  tools: [React, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        Tech club: "FunctionUp",
-                        speaker: "inventix",
-                      },
- Hobbies: " 🗣️ Public Speaking &&  📈 Algorithmic Trading "
-}
+  
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
