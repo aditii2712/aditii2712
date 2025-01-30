@@ -1,4 +1,4 @@
-<h2> Hi, I'm Akhilesh Kr.!  <img src="https://media.giphy.com/media/WUm2STzv0N5fl3ezyr/giphy.gif" width="50"></h2>
+<h2> Hi, I' am Aditi Singh!  <img src="https://media.giphy.com/media/WUm2STzv0N5fl3ezyr/giphy.gif" width="50"></h2>
 <img align='right' src="output-onlinegiftools.gif" width="240">
 <p><em>Project Student at Polaris School of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring : Operating Systems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -38,8 +38,8 @@ const Akhilesh = {
 ##                        🔥 GitHub stats:
 
 <p align="center">
-  <a href="https://github.com/Akhilesh-max">
-    <img title="GitHub Stats" alt="Akhilesh's streak" src="https://streak-stats.demolab.com/?user=Akhilesh-max&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <a href="https://github.com/aditii2712">
+    <img title="GitHub Stats" alt="Aditi's streak" src="https://streak-stats.demolab.com/?user=aditii2712&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   </a>
 </p>
 
